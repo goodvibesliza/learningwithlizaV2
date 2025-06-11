@@ -418,7 +418,6 @@ function App() {
                 title: "Finding Your Sovereignty",
                 description: "A deep dive into what it means to be truly sovereign in your life choices and personal power.",
                 thumbnail: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
-                videoid: "https://youtube.com/embed/6VvAS9Arhow?feature=share"
               },
               {
                 title: "Trauma to Transformation",
