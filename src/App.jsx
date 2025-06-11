@@ -8,7 +8,7 @@ import { Card, CardContent } from './components/ui/card'
 import './App.css'
 
 // Import placeholder image (you'll replace with actual photos)
-const lizaHeadshot = "/Headshot prof.jpg"
+const lizaHeadshot = "/business card LWL.jpg"
 const lizaBeachPhoto = "/liza headshot look left.jpg"
 const gardenPhoto = "/garden house.jpg"
 
