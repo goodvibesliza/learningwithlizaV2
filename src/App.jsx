@@ -8,9 +8,9 @@ import { Card, CardContent } from './components/ui/card'
 import './App.css'
 
 // Import placeholder image (you'll replace with actual photos)
-const lizaHeadshot = "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face"
-const lizaBeachPhoto = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop"
-const gardenPhoto = "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop"
+const lizaHeadshot = "/Headshot prof.jpg"
+const lizaBeachPhoto = "/liza headshot look left.jpg"
+const gardenPhoto = "/garden house.jpg"
 
 function App() {
   const [activeSection, setActiveSection] = useState('home')
